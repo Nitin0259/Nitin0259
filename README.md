@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 # 💫 About Me:
-- 🔭 Currently working on web development projects.<br>- 🌱 Learning React and Advanced Django.<br>- 💻 Passionate about creating responsive and interactive websites.<br>- 🎯 Aspiring Full-Stack Developer.<br>- 📫 Email: ns7034501@gmail.com<br>
+- 🔭 Currently working on full stack projects.<br>- 🌱 Learning NodeJS and Advanced Django.<br>- 💻 Passionate about creating responsive and interactive websites.<br>- 🎯 Aspiring Full-Stack Developer.<br>- 📫 Email: ns7034501@gmail.com<br>
 
 
 ## 🌐 Socials:
